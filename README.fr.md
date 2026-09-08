@@ -1,6 +1,6 @@
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/🇫🇷-Français-blue?style=for-the-badge" /></a>
-  <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧-English-lightgrey?style=for-the-badge" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧-English-lightgrey?style=for-the-badge" /></a>
 </p>
 
 <h1 align="center">Salut, je suis Bouthayna Hammami 👋</h1>
