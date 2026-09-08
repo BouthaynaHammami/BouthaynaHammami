@@ -28,7 +28,7 @@ Final-year **Software Engineering student specializing in Software Architecture 
 
 I work mainly with **Angular, Spring Boot and .NET**, and enjoy designing scalable applications, secure APIs and distributed systems.
 
-🎯 Currently seeking a **PFE internship** in Software Architecture, Fullstack Development, DevOps or Software Quality.
+🎯 Currently seeking a **PFE internship** in Software Architecture, Fullstack Development, DevOps.
 
 ---
 
